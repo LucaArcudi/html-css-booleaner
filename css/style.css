@@ -29,3 +29,24 @@ h1{
 .separator{
     height: 2rem;
 }
+
+.coloryellow{
+    background-color: yellow;
+}
+
+.tablehead{
+    background-color: aqua;
+    color: white;
+}
+
+.firstrow{
+    background-color: lightskyblue;
+}
+
+.thirdrow{
+    background-color: lightskyblue;
+}
+
+.thirdth{
+    text-align: left;
+}
