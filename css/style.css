@@ -50,3 +50,18 @@ h1{
 .thirdth{
     text-align: left;
 }
+
+.container{
+    height: 13rem;
+    width: 17rem;
+    color: white;
+    font-size: 1.8rem;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+}
