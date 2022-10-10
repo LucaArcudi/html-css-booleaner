@@ -6,3 +6,26 @@ header{
     background-size: 15rem, 30rem;
     height: 8rem;
     }
+
+h1{
+    font-size: 3rem;
+    display: inline;
+    }
+
+    
+.credits{
+    font-size: 1.2rem;    
+    }
+
+
+.colorgrey{
+    color: gray;
+    }
+
+.coloraqua{
+    color: aqua;
+    }
+
+.separator{
+    height: 2rem;
+}
